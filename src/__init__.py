@@ -1,0 +1,2 @@
+"""NutriAI application modules."""
+

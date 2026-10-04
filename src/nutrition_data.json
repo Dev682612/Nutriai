@@ -1,0 +1,12 @@
+{
+  "apple_pie": {"calories": 411, "protein_g": 4.0, "carbs_g": 57.0, "fat_g": 19.0},
+  "caesar_salad": {"calories": 190, "protein_g": 8.0, "carbs_g": 10.0, "fat_g": 14.0},
+  "cheese_plate": {"calories": 410, "protein_g": 25.0, "carbs_g": 9.0, "fat_g": 31.0},
+  "chicken_curry": {"calories": 335, "protein_g": 27.0, "carbs_g": 16.0, "fat_g": 18.0},
+  "chicken_wings": {"calories": 430, "protein_g": 36.0, "carbs_g": 8.0, "fat_g": 28.0},
+  "french_fries": {"calories": 365, "protein_g": 4.0, "carbs_g": 48.0, "fat_g": 17.0},
+  "fried_rice": {"calories": 333, "protein_g": 8.0, "carbs_g": 52.0, "fat_g": 10.0},
+  "hamburger": {"calories": 354, "protein_g": 20.0, "carbs_g": 29.0, "fat_g": 17.0},
+  "pizza": {"calories": 285, "protein_g": 12.0, "carbs_g": 36.0, "fat_g": 10.0},
+  "spaghetti_bolognese": {"calories": 380, "protein_g": 22.0, "carbs_g": 48.0, "fat_g": 11.0}
+}
